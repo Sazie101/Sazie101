@@ -1,4 +1,4 @@
-![](./Programming.jpg)
+![](./banner.jpg)
 
 
 # Who am I
