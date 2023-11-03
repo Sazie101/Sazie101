@@ -1,5 +1,5 @@
-<!-- ![](./coding-banner.jpg) -->
-<img src="./coding-banner.jpg" alt="Banner image" width="200" height="150">
+![](./coding-banner.jpg)
+<!-- <img src="./coding-banner.jpg" alt="Banner image" width="200" height="150"> -->
 
 
 # Who am I
