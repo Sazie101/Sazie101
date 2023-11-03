@@ -1,4 +1,6 @@
-![](./coding-banner.jpg)
+<!-- ![](./coding-banner.jpg) -->
+<img src="./coding-banner.jpg" alt="Banner image" width="200" height="150">
+
 
 # Who am I
 Hello everybody, My name is Samuel Yazie, I am a Software development student and I live in Winnipeg, Manitoba.
