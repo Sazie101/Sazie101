@@ -1,6 +1,9 @@
 ![](./coding-banner.gif)
 
 # About me
+<p>
+<img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>
+</p>
 
 <!--
 **Sazie101/Sazie101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
