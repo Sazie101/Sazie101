@@ -1,3 +1,5 @@
+![](./coding-banner.gif)
+
 ### Hi there 
 
 <!--
