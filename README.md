@@ -1,4 +1,4 @@
-![](./coding-banner.gif)
+![](./coding-banner.png)
 
 # Who am I
 
