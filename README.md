@@ -16,6 +16,9 @@
 </p>
 
 
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sazie101&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ### My stats
 
 <a href="https://github.com/Sazie101">
