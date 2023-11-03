@@ -30,7 +30,7 @@ I am constantly on the path of learning expanding my knowledge in the world of p
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Sazie101&theme=vue&show_icons=true" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/Sazie101">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazie101&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelYazie&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
   GitHub stats"/>
 </a>
 
