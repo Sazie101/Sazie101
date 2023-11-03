@@ -16,7 +16,7 @@
 </p>
 
 
-[![Samuel's Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sazie101&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Samuel's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Samuel&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### My stats
