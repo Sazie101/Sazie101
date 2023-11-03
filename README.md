@@ -6,7 +6,7 @@
 
 
 
-
+## my skills
 <p>
 <img src="https://img.shields.io/badge/code-C%23-informational?style=for-the-badge&logo=c-sharp&logoColor=white color=239120" alt="C#">
 <img src="https://img.shields.io/badge/code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python">
