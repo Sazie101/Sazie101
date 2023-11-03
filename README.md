@@ -4,7 +4,6 @@
 
 
 
-##
 ## my skills
 <p>
 <img src="https://img.shields.io/badge/code-C%23-informational?style=for-the-badge&logo=c-sharp&logoColor=white color=239120" alt="C#">
