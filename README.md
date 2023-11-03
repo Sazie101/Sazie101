@@ -1,6 +1,9 @@
 ![](./coding-banner.png)
 
 # Who am I
+Hello everybody, My name is Samuel Yazie, I am a Software development student and I live in Winnipeg, Manitoba.
+
+- 📚 I'm currently a student at MITT, honing my skills in software development.
 
 
 
