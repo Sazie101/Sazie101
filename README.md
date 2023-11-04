@@ -6,7 +6,7 @@ Hello everybody, My name is Samuel Yazie, I am a Software development student an
 
 I'm currently a student at MITT, honing my skills in software development. I have loved coding and working with techonology ever since I was introduced to it in the 9th grade. Ever since then, I have expanded my skill sets and I have learned how to use a multitude of coding languages including C#, Python, HTML/CSS and Javascript.
 
-I am constantly on the path of learning expanding my knowledge in the world of programming. I feel very passionite about the field of computer science and would love to one day be able to contribute to it. I will be posting some of my best works and documenting my journey and I would love it if you would follow along. 
+I am constantly on the path of learning expanding my knowledge in the world of programming. I feel very passionate about the field of computer science and would love to one day be able to contribute to it. I will be posting some of my best works and documenting my journey and I would love it if you would follow along. 
 
 
 
