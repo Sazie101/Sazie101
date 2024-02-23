@@ -18,6 +18,8 @@ I am constantly on the path of learning expanding my knowledge in the world of p
 <img src="https://img.shields.io/badge/code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS">
 <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889" alt="JavaScript">
 <img src="https://img.shields.io/badge/code-SQL-informational?style=for-the-badge&logo=sql&logoColor=white&color=239120" alt="SQL">
+<img src="https://img.shields.io/badge/code-Markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=239120" alt="Markdown">
+<img src="https://img.shields.io/badge/code-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=239120" alt="Git">
 </p>
 
 ##
