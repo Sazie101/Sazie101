@@ -12,15 +12,15 @@ I am constantly on the path of learning expanding my knowledge in the world of p
 
 ## my skills
 <p>
-<img src="https://img.shields.io/badge/code-C%23-informational?style=for-the-badge&logo=c-sharp&logoColor=white color=239120" alt="C#">
-<img src="https://img.shields.io/badge/code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB" alt="Python">
-<img src="https://img.shields.io/badge/code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" alt="HTML">
-<img src="https://img.shields.io/badge/code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS">
-<img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889" alt="JavaScript">
-<img src="https://img.shields.io/badge/code-SQL-informational?style=for-the-badge&logo=sql&logoColor=white&color=239120" alt="SQL">
-<img src="https://img.shields.io/badge/code-Markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=239120" alt="Markdown">
-<img src="https://img.shields.io/badge/code-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=239120" alt="Git">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/SQL-%23239120.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+<img src="https://img.shields.io/badge/Git-%23239120.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github" alt="GitHub">
 </p>
 
 ##
